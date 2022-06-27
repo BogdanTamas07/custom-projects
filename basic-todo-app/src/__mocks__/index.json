@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "items": [
+        { "title": "Setup virtual office", "checked": false },
+        { "title": "Set mission & vision", "checked": false },
+        { "title": "Select business name", "checked": false },
+        { "title": "Buy domains", "checked": false }
+      ],
+      "title": "Foundation"
+    },
+    {
+      "items": [
+        { "title": "Create roadmap", "checked": false },
+        { "title": "Competitor analysis", "checked": false }
+      ],
+      "title": "Discovery"
+    },
+    {
+      "items": [
+        { "title": "Release marketing website", "checked": false },
+        { "title": "Release MVP", "checked": false }
+      ],
+      "title": "Delivery"
+    }
+  ]
+}
